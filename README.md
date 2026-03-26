@@ -1,5 +1,7 @@
 # Spotify Analytics Dashboard
 
+Acesse o dashboard: https://spotify-dashboard-if5fex7ko93qwpjix7sptq.streamlit.app/
+
 Este projeto foi desenvolvido com o objetivo de analisar padrões em músicas populares no Spotify e transformar esses dados em uma visualização interativa. A ideia foi unir análise de dados, visualização, conhecimentos do recente curso que eu fiz sobre Streamlit e um pouco de Machine Learning em um projeto simples para demonstrar habilidades práticas. Todas as linhas de código foram comentadas para melhor entendimento de quem se interessar e com o objetivo de estudo para mim.
 
 ---
