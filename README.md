@@ -21,7 +21,7 @@ No notebook, foi feita uma análise dos dados para entender relações entre var
 
 Os dados foram retirados do Kaggle:
 
-🔗 https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018?resource=download
+https://www.kaggle.com/datasets/nadintamer/top-spotify-tracks-of-2018?resource=download
 
 O dataset contém informações sobre as músicas mais populares de 2018 no Spotify, incluindo características como:
 
